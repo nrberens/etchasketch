@@ -1,0 +1,12 @@
+div.box {
+	float: left;
+	background-color: #999;
+}
+
+.uncolored {
+	background-color: #999;
+}
+
+.colored {
+	background-color: #000 !important;
+}
